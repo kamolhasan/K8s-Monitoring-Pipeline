@@ -10,6 +10,8 @@ References:
     - [Grafana](https://github.com/appscode/third-party-tools/tree/master/monitoring/grafana)
 
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
+    - [Deployment, service and necessary rbac yamls](https://github.com/kubernetes/kube-state-metrics/tree/master/kubernetes)
+    
 - [k8s-prometheus-adapter](https://github.com/DirectXMan12/k8s-prometheus-adapter/blob/master/docs/walkthrough.md)
 - [Aggregation](https://github.com/kubernetes-incubator/apiserver-builder-alpha/blob/master/docs/concepts/aggregation.md)
 
