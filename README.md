@@ -8,6 +8,8 @@ References:
 - Prometheus
     - [Prometheus operator](https://github.com/coreos/prometheus-operator/blob/master/Documentation/user-guides/getting-started.md)
     - [Grafana](https://github.com/appscode/third-party-tools/tree/master/monitoring/grafana)
+    - [Prometheus node exporter](https://github.com/prometheus/node_exporter)
+        - [Helm chart](https://github.com/helm/charts/tree/master/stable/prometheus-node-exporter)
 
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
     - [Deployment, service and necessary rbac yamls](https://github.com/kubernetes/kube-state-metrics/tree/master/kubernetes)
