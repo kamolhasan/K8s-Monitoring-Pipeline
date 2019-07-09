@@ -31,3 +31,4 @@ References:
         - [Exposing and collecting metrics](https://blog.pvincent.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/)
         - [Instrumenting code in Go and Java](https://blog.pvincent.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/)
         - [Alerting rules](https://blog.pvincent.io/2017/12/prometheus-blog-series-part-5-alerting-rules/)
+    - [Prometheus and StackDriver as Sidecar](https://medium.com/google-cloud/prometheus-and-stackdriver-fb8f7524ece0)
